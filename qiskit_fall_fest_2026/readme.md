@@ -1,0 +1,1 @@
+Coding assignments in the Qiskit Fall Fest 2026 organized by Calcutta University
